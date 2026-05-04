@@ -1,0 +1,1 @@
+"""Pacchetto comandi per il gioco degli scacchi."""
